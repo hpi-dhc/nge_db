@@ -1,0 +1,312 @@
+adulte-weichgewebesarkome:
+  scope:
+    incl:
+      - C4551687
+      - C0238198
+  versions:
+    '1.1':
+      date: 2022-06-01
+      ggponc: v2.1_2023_03_30
+    '1.0':
+      date: 2021-09-01
+      ggponc: v2.0_2022_03_24
+    
+aktinische-keratose-und-plattenepithelkarzinom-der-haut:
+  scope:
+    incl:
+      - C0022602
+      - C0553723
+  versions:
+    '2.0':
+      date: 2022-12-01
+      ggponc: v2.1_2023_03_30
+      search_end: 2021-06-01
+    '1.1':
+      date: 2020-03-01
+      ggponc: v2.0_2022_03_24
+
+analkarzinom:
+  scope:
+    incl:
+     - C0003463
+  versions:
+    '1.2':
+      date: 2020-12-01
+      ggponc: v2.0_2022_03_24
+
+chronisch-lymphatische-leukaemie-cll:
+  scope:
+    incl:
+       - C0023434
+  versions:
+    '1.0':
+      date: 2018-03-01
+      ggponc: v2.0_2022_03_24
+
+dlbcl:
+  scope:
+    incl:
+      - C0079744
+  versions:
+    '1.0':
+      date: 2022-10-01
+      ggponc: v2.1_2023_03_30
+
+endometriumkarzinom:
+  scope:
+    incl:
+      - C0014170
+  versions:
+    '2.0':
+      date: 2022-09-01
+      ggponc: v2.1_2023_03_30
+      search_end: 2020-07-01
+    '1.0':
+      date: 2018-04-01
+      ggponc: v2.0_2022_03_24
+
+follikulaeres-lymphom:
+  scope:
+    incl:
+      - C0024301
+  versions:
+    '1.0':
+      date: 2020-06-01
+      ggponc: v2.0_2022_03_24
+
+harnblasenkarzinom:
+  scope:
+    incl:
+      - C0699885
+  versions:
+    '2.0':
+      date: 2020-03-01
+      ggponc: v2.0_2022_03_24
+      search_end: 2018-05-03
+
+hepatozellulaeres-karzinom-und-biliaere-karzinome:
+  scope:
+    incl:
+      - C0279000
+  versions:
+    '4.0':
+      date: 2023-08-01
+      ggponc: v2.2_2024_04_22
+      search_end: 2022-10-31
+    '3.0':
+      date: 2022-07-01
+      ggponc: v2.1_2023_03_30
+    '2.0':
+      date: 2021-06-01
+      ggponc: v2.0_2022_03_24
+
+hodentumoren:
+  scope:
+    incl:
+      - C0039590
+      - C0027658
+  versions:
+    '1.1':
+      date: 2020-02-01
+      ggponc: v2.0_2022_03_24
+
+hodgkin-lymphom:
+  scope:
+    incl:
+      - C0019829
+      - C1266193
+  versions:
+    '3.2':
+      date: 2022-10-01
+      ggponc: v2.1_2023_03_30
+    '3.1':
+      date: 2022-03-01
+      ggponc: v2.0_2022_03_24
+
+kolorektales-karzinom:
+  scope:
+    incl:
+      - C0009402
+      - C0009404
+      - C0009375
+      - C4721579
+  versions:
+    '2.1':
+      date: 2019-01-01
+      ggponc: v2.0_2022_03_24
+
+larynxkarzinom:
+  scope:
+    incl:
+      - C0023055
+  versions:
+    '1.1':
+      date: 2019-11-01
+      ggponc: v2.0_2022_03_24
+
+lungenkarzinom:
+  scope:
+    incl:
+      - C0242379
+      - C0024121
+    excl:
+      - C0345967
+  versions:      
+    '3.0':
+      date: 2024-03-01
+      ggponc: v2.2_2024_04_22
+    '2.0':
+      date: 2022-11-01
+      ggponc: v2.1_2023_03_30
+    '1.0':
+      date: 2018-02-01
+      ggponc: v2.0_2022_03_24
+
+magenkarzinom:
+  scope:
+    incl:
+      - C0038356
+  versions:
+    '2.0':
+      date: 2019-08-01
+      ggponc: v2.0_2022_03_24      
+
+maligne-ovarialtumoren:
+  incl:
+    - C1140680
+  versions:
+    '5.1':
+      date: 2022-05-01
+      ggponc: v2.1_2023_03_30
+    '5.0':
+      date: 2021-09-01
+      ggponc: v2.0_2022_03_24
+
+malignes-melanom:
+  scope:
+    incl:
+     - C0025202
+  versions:
+    '3.3':
+      date: 2020-07-01
+      ggponc: v2.0_2022_03_24
+
+mammakarzinom:
+  scope:
+    incl:
+      - C1458155
+      - C0006142
+  versions:
+    '4.4':
+      date: 2021-06-01
+      ggponc: v2.0_2022_03_24
+
+multiples-myelom:
+  scope:
+    incl:
+      - C0026764
+  versions:
+    '1.0':
+      date: 2022-02-01
+      ggponc: v2.0_2022_03_24
+
+mundhoehlenkarzinom:
+  scope:
+    incl:
+      - C0026640
+  versions:
+    '3.0':
+      date: 2021-03-01
+      ggponc: v2.0_2022_03_24
+
+nierenzellkarzinom:
+  scope:
+    incl:
+      - C0007134
+  versions:
+    '4.0':
+      date: 2023-02-01
+      ggponc: v2.1_2023_03_30
+      search_end: 2021-05-01
+    '3.0':
+      date: 2021-11-01
+      ggponc: v2.0_2022_03_24
+
+oro--und-hypopharynxkarzinom:
+  scope:
+    incl:
+      - C0029295
+      - C0020627
+  versions:
+    '1.0':
+      date: 2024-03-01
+      ggponc: v2.2_2024_04_22
+      search_end: 2022-02-01
+
+oesophaguskarzinom:
+  scope:
+    incl:
+      - C0014859
+      - C1332166
+      - C5400195
+  versions:
+    '4.0':
+      date: 2023-12-01
+      ggponc: v2.2_2024_04_22
+      search_end: 2022-03-02
+    '3.1':
+      date: 2022-06-01
+      ggponc: v2.1_2023_03_30
+    '3.0':
+      date: 2021-10-01
+      ggponc: v2.0_2022_03_24
+      
+pankreaskarzinom:
+  scope:
+    incl:
+      - C0030297
+  versions:
+    '3.0':
+      date: 2024-03-01
+      ggponc: v2.2_2024_04_22
+      search_end: 2021-08-01
+    '2.0':
+      date: 2021-12-01
+      ggponc: v2.1_2023_03_30
+    '1.0':
+      date: 2013-10-01
+      ggponc: ~
+
+peniskarzinom:
+  scope:
+    incl:
+      - C0030849
+  versions:
+    '1.0':
+      date: 2020-08-01
+      ggponc: v2.0_2022_03_24
+
+prostatakarzinom:
+  scope:
+    incl:
+      - C0033578
+  versions:
+    '7.0':
+      date: 2024-05-01
+      ggponc: v2.3_2024_06_18 
+      search_end: 2023-11-15
+    '6.2':
+      date: 2021-10-01
+      ggponc: v2.0_2022_03_24    
+    
+zervixkarzinom:
+  scope:
+    incl:
+     - C0007873
+  versions:
+    '2.2':
+      date: 2022-03-01
+      ggponc: v2.1_2023_03_30
+    '2.1':
+      date: 2021-05-01
+      ggponc: v2.0_2022_03_24

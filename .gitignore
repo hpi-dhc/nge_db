@@ -1,0 +1,58 @@
+.mypy_cache
+.venv
+.ipynb_checkpoints
+__pycache__
+.vscode
+.DS_store
+.pytest_cache
+.env
+**/wandb_models
+data.backup
+thesis
+output
+**/.ipynb_checkpoints/**
+
+# LateX
+*.aux
+*.bcf
+*.fdb_latexmk
+*.blg
+*.bbl
+*.fls
+*.log
+*.run.xml
+*.synctex.gz
+*.out
+*.glg
+*.glo
+*.gls
+*.ist
+*.acn
+*.toc
+
+
+# ER diagram
+*.png
+
+# Data
+db
+cache
+models
+wandb
+#data/**
+
+# Screening data
+!data/literature
+!data/screening/
+!data/screening/ggponc_literature.csv
+!data/screening/esophagus
+!data/screening/esophagus/**
+!data/screening/hodgkin_lymphoma
+!data/screening/hodgkin_lymphoma/**
+!data/screening/hodgkin_lymphoma_retrospective
+!data/screening/hodgkin_lymphoma_retrospective/**
+# exclude larger processing results
+retrieved_evidence.parquet
+retrieved_flagged.csv
+unscreened_hq.csv
+.DS_store
