@@ -47,6 +47,8 @@ Get access to the latest [GGPONC release](https://www.leitlinienprogramm-onkolog
 
 ### PubMed
 
+The code to download and process PubMed articles is released [separately](https://gitlab.hpi.de/florian.borchert/nge_pubmed).
+
 ### ClinicalTrials.gov
 
 `poetry run populate` automatically identifies the latest monthly dump from [AACT](https://aact.ctti-clinicaltrials.org/download) and downloads it if necessary.
