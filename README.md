@@ -3,6 +3,8 @@
 This repository contains code for combining and harmonizing primary and secondary evidnce from different sources (Pubmed, ClinicalTrials.gov, CIViC, GGPONC).
 It consists of a database, an application server with a REST API, and a Vue.js frontend.
 
+An online demo is available at: https://we.analyzegenomes.com/nge/
+
 The code for the web frontend is maintained separately: https://gitlab.hpi.de/florian.borchert/nge_app
 
 ## Installation
